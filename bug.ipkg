@@ -1,0 +1,10 @@
+package dom-mvc-bug
+version    = 0.0.1
+depends    = dom-mvc
+
+sourcedir  = "src"
+opts       = "--codegen javascript"
+
+
+main       = Main
+executable = "main.js"
